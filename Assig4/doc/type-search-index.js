@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cs445.a4","l":"Film"},{"p":"cs445.a4","l":"StreamingVideo"},{"p":"cs445.a4","l":"TvEpisode"},{"p":"cs445.a4","l":"TvSeries"},{"p":"cs445.a4","l":"User"},{"p":"cs445.a4","l":"Video"}]
