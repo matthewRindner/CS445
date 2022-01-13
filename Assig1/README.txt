@@ -1,0 +1,4 @@
+Included in the uploaded files ins a SetExample.java which serves as a tester for the Set class. The intital compiliation will result in a warning for unsafe operations, even though I know those operation should never take place. Run regardless. 
+
+Random bug: The intial Groceries list will have an print the 1 Red onion, yet the second Groceries list will not print the Red onion, regardless of the fact that no operation remotly effacts the red Onion. I am very comfused with this phenominia since the Red onion object seems to disapear in thin air. 
+If you[Grader] do see why that heppens, could you leave a short note in the final grade rubric or something as to why Red onion is not printing?

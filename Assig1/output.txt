@@ -1,0 +1,14 @@
+Groceries:
+1 Pork roast
+2 Fennel
+1 White wine
+1 Rosemary
+3 Fuji apple
+1 Red onion
+
+Groceries:
+2 Pork roast
+2 Fennel
+1 Red onion
+1 Rosemary
+2 White wine
